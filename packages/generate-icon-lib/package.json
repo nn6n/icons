@@ -35,7 +35,7 @@
     "node-fetch": "^2.4.1",
     "pretty-bytes": "^5.2.0",
     "react": "17.0.2",
-    "svgo": "^1.2.2",
+    "svgo": "^2.0.0",
     "tempy": "^0.3.0",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.3"
